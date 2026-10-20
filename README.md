@@ -1,5 +1,7 @@
 <div align="center">
   <img width="600" src="Blush%20Rover%20GIF.gif" alt="Demo Aplikasi">
+  <br><br>
+  [![Spotify Playing](https://spotify-github-profile.vercel.app/api/spotify?username=danzz)](https://open.spotify.com/user/danzz)
 </div>
 
 <p align="center">
