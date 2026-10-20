@@ -1,3 +1,3 @@
-<div align="display: flex; justify-content: center; gap: 10px;">
-  <img width="1000" src="img/Blush Rover GIF.gif" alt="Demo Aplikasi">
+<div align="center">
+  <img width="600" src="img/Blush Rover GIF.gif" alt="Demo Aplikasi">
 </div>
